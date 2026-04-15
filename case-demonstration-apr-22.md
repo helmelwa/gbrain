@@ -3,7 +3,7 @@ slug: case-demonstration-apr-22
 created: 2026-04-16
 updated: 2026-04-16
 tags: [interview, job, programming-case, devops]
-links: [{slug: futtrue, type: company}]
+links: [{slug: futrue, type: company}]
 ---
 
 # Демонстрация кейса — 22 апреля
