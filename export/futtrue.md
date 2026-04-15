@@ -1,8 +1,14 @@
 ---
+type: concept
+title: Futtrue
+---
+
+---
 slug: futtrue
 created: 2026-04-16
 updated: 2026-04-16
 tags: [company, pharma, interview]
+
 ---
 
 # FUTRUE
