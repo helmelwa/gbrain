@@ -1,5 +1,4 @@
 ---
-slug: klein-jobcenter-arbeitsamt
 created: 2026-04-16
 tags: [inbox, jobcenter, arbeitsamt, beihilfe, reisekosten, kleidung, b2]
 links: []

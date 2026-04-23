@@ -1,5 +1,4 @@
 ---
-slug: do-you-even-need-a-database
 created: 2026-04-16
 updated: 2026-04-16
 tags: [article, database, performance, go, rust, bun, benchmarks]

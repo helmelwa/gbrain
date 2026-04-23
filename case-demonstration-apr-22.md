@@ -1,20 +1,41 @@
 ---
 slug: case-demonstration-apr-22
 created: 2026-04-16
-updated: 2026-04-16
+updated: 2026-04-22
 tags: [interview, job, programming-case, devops]
 links: [{slug: futrue, type: company}]
 ---
 
-# Демонстрация кейса — 22 апреля
+# Демонстрация кейса — 28 апреля
 
-> Защита программного кейса. Процесс подачи заявления на работу — один из этапов.
+> **⚠️ UPDATE:** Interview rescheduled from April 22 → **April 28, 13:30—15:00**
+
+## Intro Text (McKinsey-style, for opening slide)
+
+```
+April 22, 2026
+Sehr geehrtes FUTRUE-Team,
+
+vielen Dank für die Gelegenheit, diesen Case auszuarbeiten, und für das damit verbundene Vertrauen.
+
+Dieses Dokument enthält meine Antwort auf Szenario B: einen funktionsfähigen Prototyp eines Self-Service Permission Portals — entwickelt in unter 48 Stunden auf Basis bewährter Architekturentscheidungen und moderner Technologien.
+
+Die Präsentation umfasst die clarifizierenden Fragen und Annahmen als Grundlage für die gewählten Lösungsansätze, die Architekturentscheidungen mit Fokus auf Compliance, Sicherheit und Wartbarkeit, den laufenden Prototyp mit Demo-Zugang sowie drei konkrete nächste Schritte für den Produktivbetrieb. Abschließend zeige ich den KI-gestützten Entwicklungsansatz sowie einen Ausblick auf MCP.
+
+Alle Empfehlungen sind technologieagnostisch formuliert — der Prototyp nutzt n8n als illustrative Plattform, die Architektur ist jedoch auf beliebige Workflow-Engines übertragbar. Ich gehe dabei von Prinzipien der Unabhängigkeit und praxisorientierter Lösungsfindung aus.
+
+Für Rückfragen stehe ich jederzeit zur Verfügung.
+
+Mit freundlichen Grüßen
+Wladimir Helmel
+AI Automation & Integration Engineer
+```
 
 ## Состояние
-- **Дата:** Среда, 22 апреля 2026
+- **Дата:** Вторник, 28 апреля 2026, 13:30—15:00
 - **Тип:** Демонстрация кейса / Защита программного кейса
 - **Цель:** Собеседование — один из этапов
-- **Локация:** Мюнхен, Германия
+- **Локация:** FUTRUE GmbH, Am Haag 14, 5 Etage, Gräfelfing
 - **Компания:** FUTRUE (фарма, средний размер, Мюнхен)
 - **Позиция:** IT DevOps Engineer
 

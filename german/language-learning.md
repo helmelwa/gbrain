@@ -1,5 +1,4 @@
 ---
-slug: german-language-learning
 created: 2026-04-16
 tags: [german, language, b1, futrue, interview, presentation]
 links: [case-demonstration-apr-22]
