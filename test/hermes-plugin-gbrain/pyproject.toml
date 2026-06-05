@@ -1,0 +1,7 @@
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]
+markers = [
+    "unit: pure unit tests, no subprocess, no real gbrain",
+    "integration: real gbrain serve subprocess via MCP stdio",
+]
